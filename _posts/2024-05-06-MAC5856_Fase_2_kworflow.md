@@ -6,4 +6,4 @@ tags: [software livre, open source]     # TAG names should always be lowercase
 comments: false
 ---
 
-[PR](https://github.com/kworkflow/kworkflow/pull/1102)
+[PR](https://github.com/kworkflow/kworkflow/pull/1107)
