@@ -1,5 +1,5 @@
 ---
-title: Contribution to Braindecode - Add new augmentation method
+title: First contribution to Braindecode - Add new augmentation method (SegmentationReconstruction)
 date: 2024-05-22
 categories: [Braindecode, Open-Science, MAC5856 - Desenvolvimento de Software Livre]
 tags: [open source, open science]     # TAG names should always be lowercase
